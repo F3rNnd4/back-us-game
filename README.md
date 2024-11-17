@@ -1,2 +1,3 @@
-# back-us-game
-Projeto Back us game de Back-end.
+## Back Us Game
+
+Projeto Back Us jogo de Back-end sobre tudo que foi estudado neste 2º semestre.
